@@ -65,19 +65,79 @@
   },
   "status": [
     {
-      "id": 1,
+      "id": "1",
       "tipo": "Solicitado"
     },
     {
-      "id": 2,
+      "id": "2",
       "tipo": "Em produção"
     },
     {
-      "id": 3,
+      "id": "3",
       "tipo": "Finalizado"
     }
   ],
   "burgers": [
-  
+    {
+      "id": "28bb",
+      "name": "Renan Nobre",
+      "meat": "Picanha",
+      "bread": "3 Queijos",
+      "optional": [
+        "Bacon",
+        "Cebola roxa",
+        "Cheddar",
+        "Tomate"
+      ],
+      "status": "Solicitado"
+    },
+    {
+      "id": "89c4",
+      "name": "Renan Nobre",
+      "meat": "Alcatra",
+      "bread": "Parmesão e Orégano",
+      "optional": [
+        "Bacon",
+        "Cebola roxa",
+        "Tomate"
+      ],
+      "status": "Solicitado"
+    },
+    {
+      "id": "8bc1",
+      "name": "Renan ",
+      "meat": "Picanha",
+      "bread": "Italiano Branco",
+      "optional": [
+        "Salame",
+        "Pepino",
+        "Cebola roxa"
+      ],
+      "status": "Solicitado"
+    },
+    {
+      "id": "52cc",
+      "name": "Layza",
+      "meat": "Maminha",
+      "bread": "Parmesão e Orégano",
+      "optional": [
+        "Salame",
+        "Cebola roxa",
+        "Cheddar"
+      ],
+      "status": "Solicitado"
+    },
+    {
+      "id": "6d2a",
+      "name": "Tiago",
+      "meat": "Picanha",
+      "bread": "3 Queijos",
+      "optional": [
+        "Bacon",
+        "Cebola roxa",
+        "Cheddar"
+      ],
+      "status": "Solicitado"
+    }
   ]
 }
