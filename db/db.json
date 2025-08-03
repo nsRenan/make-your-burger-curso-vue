@@ -79,31 +79,6 @@
   ],
   "burgers": [
     {
-      "id": "28bb",
-      "name": "Renan Nobre",
-      "meat": "Picanha",
-      "bread": "3 Queijos",
-      "optional": [
-        "Bacon",
-        "Cebola roxa",
-        "Cheddar",
-        "Tomate"
-      ],
-      "status": "Solicitado"
-    },
-    {
-      "id": "89c4",
-      "name": "Renan Nobre",
-      "meat": "Alcatra",
-      "bread": "Parmesão e Orégano",
-      "optional": [
-        "Bacon",
-        "Cebola roxa",
-        "Tomate"
-      ],
-      "status": "Solicitado"
-    },
-    {
       "id": "8bc1",
       "name": "Renan ",
       "meat": "Picanha",
@@ -113,7 +88,7 @@
         "Pepino",
         "Cebola roxa"
       ],
-      "status": "Solicitado"
+      "status": "Finalizado"
     },
     {
       "id": "52cc",
@@ -125,7 +100,7 @@
         "Cebola roxa",
         "Cheddar"
       ],
-      "status": "Solicitado"
+      "status": "Finalizado"
     },
     {
       "id": "6d2a",
